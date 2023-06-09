@@ -1,5 +1,5 @@
 # Hi there 👋, I am Muhammad Amran Khan (Mike) <img src='https://github.com/Mike111222/Mike111222/blob/main/cup.gif' width='50'/><br>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Full-Stack+developer+with+real+world+projects;experience.+I+have+expertise+in+JavaScript;React,+and+Node.js+My+projects;including+My+portfolio,+Apple+Chemicals;To+Do+List,+and+Awesome+Books.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Full-Stack+developer+with+real+world+projects;experience.+I+have+expertise+in+JavaScript;React,+and+Node.js+My+projects;including+My+portfolio,+KingFisher+Chemicals;To+Do+List,+and+Awesome+Books.;)](https://git.io/typing-svg)
 <br><img src="./line.gif">
 <div align="center"> 
 <img src= https://github-readme-stats.vercel.app/api?username=Mike111222 width='699' /><br><br>
